@@ -48,7 +48,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1592161054,
 	"events": [
 		{
 			"event": 2001,
@@ -158,7 +160,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c356cebb2567daf0a24690ee0c7dc07a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\gman_hd\\gman_hd.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 966601494,
 	"events": [
 		{
 			"event": 2001,
@@ -354,7 +356,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fdea2b771c980909711e750dea4d456e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban/seal.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

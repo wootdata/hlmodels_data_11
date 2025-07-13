@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 943000442,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3a2b0ac43d7e677731d7eda1ea92c16c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/obi10.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

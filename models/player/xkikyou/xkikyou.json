@@ -103,6 +103,7 @@
 			"name": "head_detail"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 44,
@@ -145,6 +146,7 @@
 			"type": 8
 		}
 	],
+	"date": 1453347171,
 	"events": [
 		{
 			"event": 2001,
@@ -492,7 +494,11 @@
 	],
 	"id": 1414743113,
 	"md5": "950aaa8c584251edb45041268fade55a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XKikyo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
