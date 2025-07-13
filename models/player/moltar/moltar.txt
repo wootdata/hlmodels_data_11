@@ -1,0 +1,14 @@
+Moltar  1.0
+Another popular character from Space Ghost, Coast to coast,
+This is moltar the fire based character which is the technician
+on the show. its based off the HGRUNT.mdl and colored from there.
+
+To install Create a directory called MOLTAR in your Models directroy
+and copy in these files, (if on a network, it must be copied into each machine)
+
+this is freeware.
+
+Author:
+Darkwolfdkk@hotmail.com
+
+
