@@ -175,6 +175,7 @@
 	"md5": "3a2b0ac43d7e677731d7eda1ea92c16c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/obi10.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "6a8f2ef5ea071436a39db57760b440d9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Cloud/Cloud.mdl",
 	"preview": true,
 	"readme": false,

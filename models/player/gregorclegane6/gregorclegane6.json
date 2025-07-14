@@ -175,6 +175,7 @@
 	"md5": "d1eead0895a7d6727c918d15130f7dc3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Helmet/Helmet.mdl",
 	"preview": true,
 	"readme": false,

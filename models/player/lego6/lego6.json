@@ -175,6 +175,7 @@
 	"md5": "f712b0d7d2819af350a5c75aad92a166",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/lego/lego.mdl",
 	"preview": true,
 	"readme": false,
