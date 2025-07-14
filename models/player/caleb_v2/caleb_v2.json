@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,19 @@
 		{
 			"models": [
 				{
-					"name": "nypdcop",
-					"polys": 592,
-					"verts": 330
+					"name": "caleb4",
+					"polys": 2613,
+					"verts": 1246
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "caleb_eyes",
+					"polys": 72,
+					"verts": 50
 				}
 			],
 			"name": "body"
@@ -39,7 +49,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 21,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +57,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 22,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +65,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 23,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1106197364,
+	"date": 1553716594,
 	"events": [
 		{
 			"event": 2001,
@@ -172,18 +182,18 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "489b159ace8b10e73c9064b831b782ff",
+	"md5": "20c03b4970b21a2acfd717c076eb0987",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\Documents and Settings\\Barney\\ \\  (2)\\ny}",
-	"preview": true,
+	"name": "caleb.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "look_idle"
+			"name": "Koshak_convert_HL"
 		}, 
 		{
 			"fps": 14.000000,
@@ -566,7 +576,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 294276,
+	"size": 1088428,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -605,60 +615,104 @@
 			"parent": 1
 		}, 
 		{
+			"name": "Cbul",
+			"parent": 1
+		}, 
+		{
+			"name": "cbll",
+			"parent": 9
+		}, 
+		{
+			"name": "cbur",
+			"parent": 1
+		}, 
+		{
+			"name": "cblr",
+			"parent": 11
+		}, 
+		{
+			"name": "cful",
+			"parent": 1
+		}, 
+		{
+			"name": "cfll",
+			"parent": 13
+		}, 
+		{
+			"name": "cfur",
+			"parent": 1
+		}, 
+		{
+			"name": "cflr",
+			"parent": 15
+		}, 
+		{
+			"name": "cblwl",
+			"parent": 10
+		}, 
+		{
+			"name": "cbrwl",
+			"parent": 12
+		}, 
+		{
+			"name": "cbum",
+			"parent": 1
+		}, 
+		{
+			"name": "cbmm",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 Spine1",
 			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 11
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 12
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
-		}, 
-		{
-			"name": "mouth",
-			"parent": 13
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -666,63 +720,39 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 126,
-			"name": "Zombie_chomper.bmp",
-			"width": 124
+			"height": 512,
+			"name": "LEGS_MAP3.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "HEAD_MAP3.bmp",
+			"width": 640
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "HAIR_MAP7.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
 			"height": 128,
-			"name": "Barney_legs.bmp",
-			"width": 200
+			"name": "HAT_MAPdirty.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 0,
-			"height": 28,
-			"name": "newcopshoe.bmp",
-			"width": 60
+			"flags": 64,
+			"height": 512,
+			"name": "blackcottontrench3.bmp",
+			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 62,
-			"name": "BX_Holster1.bmp",
-			"width": 40
-		}, 
-		{
-			"flags": 0,
+			"flags": 32,
 			"height": 64,
-			"name": "Sci3(Pelvis).bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 45,
-			"name": "BX_Pstl.bmp",
-			"width": 68
-		}, 
-		{
-			"flags": 0,
-			"height": 93,
-			"name": "Skull1.bmp",
+			"name": "GLOW_MAP5.bmp",
 			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 71,
-			"name": "Side_Bone1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 53,
-			"name": "Skin_Side1.bmp",
-			"width": 52
-		}, 
-		{
-			"flags": 0,
-			"height": 43,
-			"name": "Neck_1.bmp",
-			"width": 32
 		}
 	],
 	"version": 10

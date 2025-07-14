@@ -14,15 +14,20 @@
 			"bone": 21,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "nypdcop",
-					"polys": 592,
-					"verts": 330
+					"name": "ss2",
+					"polys": 2345,
+					"verts": 1213
 				}
 			],
 			"name": "body"
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1106197364,
+	"date": 1621710874,
 	"events": [
 		{
 			"event": 2001,
@@ -172,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "489b159ace8b10e73c9064b831b782ff",
+	"md5": "0bfcd4ae3fd913699d1a78405e9a895f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\Documents and Settings\\Barney\\ \\  (2)\\ny}",
+	"name": "Ichigo.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -187,7 +192,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 41,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
@@ -197,12 +202,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -222,7 +227,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 128,
 			"name": "jump"
 		}, 
 		{
@@ -307,7 +312,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
@@ -317,17 +322,17 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 11,
+			"frames": 13,
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_trip"
 		}, 
 		{
@@ -337,7 +342,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_trip"
 		}, 
 		{
@@ -347,202 +352,202 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_onehanded"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_shotgun"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 7,
+			"frames": 17,
 			"name": "ref_shoot_shotgun"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_shotgun"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 18,
 			"name": "crouch_shoot_shotgun"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_gauss"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "ref_shoot_gauss"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_gauss"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "crouch_shoot_gauss"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_mp5"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 4,
+			"frames": 8,
 			"name": "ref_shoot_mp5"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_mp5"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 3,
+			"frames": 8,
 			"name": "crouch_shoot_mp5"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "ref_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "crouch_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "ref_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 21,
 			"name": "crouch_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "crouch_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_hive"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 4,
+			"frames": 7,
 			"name": "ref_shoot_hive"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_hive"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 5,
+			"frames": 7,
 			"name": "crouch_shoot_hive"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "ref_shoot_bow"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 294276,
+	"size": 598552,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -655,10 +660,6 @@
 		{
 			"name": "Bip01 R Hand",
 			"parent": 20
-		}, 
-		{
-			"name": "mouth",
-			"parent": 13
 		}
 	],
 	"skins": 1,
@@ -666,63 +667,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 126,
-			"name": "Zombie_chomper.bmp",
-			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "Barney_legs.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 28,
-			"name": "newcopshoe.bmp",
-			"width": 60
-		}, 
-		{
-			"flags": 0,
-			"height": 62,
-			"name": "BX_Holster1.bmp",
-			"width": 40
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "Sci3(Pelvis).bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 45,
-			"name": "BX_Pstl.bmp",
-			"width": 68
-		}, 
-		{
-			"flags": 0,
-			"height": 93,
-			"name": "Skull1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 71,
-			"name": "Side_Bone1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 53,
-			"name": "Skin_Side1.bmp",
-			"width": 52
-		}, 
-		{
-			"flags": 0,
-			"height": 43,
-			"name": "Neck_1.bmp",
-			"width": 32
+			"height": 512,
+			"name": "ichigo.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

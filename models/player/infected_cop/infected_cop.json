@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "nypdcop",
-					"polys": 592,
-					"verts": 330
+					"name": "infected_cop",
+					"polys": 2993,
+					"verts": 1631
 				}
 			],
 			"name": "body"
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1106197364,
+	"date": 1349556308,
 	"events": [
 		{
 			"event": 2001,
@@ -169,21 +174,35 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "5",
+			"sequence": 66,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "5",
+			"sequence": 68,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "489b159ace8b10e73c9064b831b782ff",
+	"md5": "a545c842ad60672ee63fe843b4f62b12",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\Documents and Settings\\Barney\\ \\  (2)\\ny}",
-	"preview": true,
+	"name": "infected_cop.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "look_idle"
+			"name": "Koshak_HL"
 		}, 
 		{
 			"fps": 14.000000,
@@ -566,7 +585,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 294276,
+	"size": 479452,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -621,24 +640,20 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -646,19 +661,19 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 19
 		}, 
 		{
-			"name": "mouth",
-			"parent": 13
+			"name": "Bip01 Head",
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -666,63 +681,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 126,
-			"name": "Zombie_chomper.bmp",
-			"width": 124
+			"height": 256,
+			"name": "infected_cop_head_d.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "Barney_legs.bmp",
-			"width": 200
+			"height": 256,
+			"name": "infected_cop_legs_d.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 28,
-			"name": "newcopshoe.bmp",
-			"width": 60
-		}, 
-		{
-			"flags": 0,
-			"height": 62,
-			"name": "BX_Holster1.bmp",
-			"width": 40
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "Sci3(Pelvis).bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 45,
-			"name": "BX_Pstl.bmp",
-			"width": 68
-		}, 
-		{
-			"flags": 0,
-			"height": 93,
-			"name": "Skull1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 71,
-			"name": "Side_Bone1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 53,
-			"name": "Skin_Side1.bmp",
-			"width": 52
-		}, 
-		{
-			"flags": 0,
-			"height": 43,
-			"name": "Neck_1.bmp",
-			"width": 32
+			"height": 256,
+			"name": "infected_cop_torso_d.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
