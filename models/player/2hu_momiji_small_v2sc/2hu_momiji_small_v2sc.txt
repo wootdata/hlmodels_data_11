@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_momiji_small_v2
+Source Model Hash : d790b97a50da23a3af8dc74e3b1e39ab
+Source Model Date : 1686128000 (2023/06/07)
+
+Ported Model Name : 2hu_momiji_small_v2sc
+Ported Model Hash : b7fb6223874c4b976e5a4f00b61ce78b
+Ported Model Date : 1752492442 (2025/07/14)

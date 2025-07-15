@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kf_patriarch
+Source Model Hash : 51cf839b8439c086d727e5ffec70cd9a
+Source Model Date : 1269419996 (2010/03/24)
+
+Ported Model Name : kf_patriarch_v1sc
+Ported Model Hash : 17ff3041ef5444131ffb58438640f05d
+Ported Model Date : 1752491886 (2025/07/14)

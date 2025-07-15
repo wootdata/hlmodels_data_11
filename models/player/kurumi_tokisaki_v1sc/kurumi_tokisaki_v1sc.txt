@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kurumi_tokisaki
+Source Model Hash : fb27fc237bb1a136282544ef1c664fff
+Source Model Date : 1441097262 (2015/09/01)
+
+Ported Model Name : kurumi_tokisaki_v1sc
+Ported Model Hash : e0e33d3f30cecbb55fab27cac3ca53fe
+Ported Model Date : 1752491913 (2025/07/14)

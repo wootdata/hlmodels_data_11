@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovvdv_1970c
+Source Model Hash : 52d4769977590fb90ee9c9924a85158d
+Source Model Date : 1530112827 (2018/06/27)
+
+Ported Model Name : sovvdv_1970c_v1sc
+Ported Model Hash : 259af05fdddedf3a0064b1ecfe0563bc
+Ported Model Date : 1752492303 (2025/07/14)

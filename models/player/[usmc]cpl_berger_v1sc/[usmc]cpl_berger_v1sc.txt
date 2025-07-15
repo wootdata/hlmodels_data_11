@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]cpl_berger
+Source Model Hash : b618e11d0e1b5ee6ec59a7d4aab612e9
+Source Model Date : 1542092822 (2018/11/12)
+
+Ported Model Name : [usmc]cpl_berger_v1sc
+Ported Model Hash : e72a8857cd1584a108803adbb3932004
+Ported Model Date : 1752492539 (2025/07/14)

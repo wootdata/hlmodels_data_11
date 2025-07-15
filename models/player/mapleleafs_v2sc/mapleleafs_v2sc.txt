@@ -1,0 +1,35 @@
+
+mapleleafs_READEM.txt			
+
+This model is a reskin of the Turgeon model by k_vandorn (kvandorn@kupperparker.com).
+
+It is basically a Toronto Maple Leafs hockey player.
+
+I know, all you hardcore hockey fans, that the "maple leaf" emblem is from the white jersey, 
+but I think it looks cool on the blue jersey.
+
+Also, the face is Turgeon from St. Louis Blues, but I don't have the skill or the time to
+figure out how to get Mats Sundin's face on the model!  I did knock a couple of his teeth out 
+to give him that "bad-ass" hockey player vibe though!
+
+
+BUT I think the model is cool anyhow, please use it!
+
+Dave aka [ES]ChAoS_MaChInE
+chaotic@twcny.rr.com
+ 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mapleleafs_v2
+Source Model Hash : ea1af342ad0ceb1d7d2e9adb050bb5f3
+Source Model Date : 1583478702 (2020/03/05)
+
+Ported Model Name : mapleleafs_v2sc
+Ported Model Hash : 9f8026d616180b1e03bff0e11fe188f0
+Ported Model Date : 1752491984 (2025/07/14)

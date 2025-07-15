@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uganda
+Source Model Hash : 1b8c8126caae260aa36f5c040b89973e
+Source Model Date : 1518866514 (2018/02/17)
+
+Ported Model Name : uganda_v1sc
+Ported Model Hash : da6744f593a221e3f6d19cde239716aa
+Ported Model Date : 1752492471 (2025/07/14)

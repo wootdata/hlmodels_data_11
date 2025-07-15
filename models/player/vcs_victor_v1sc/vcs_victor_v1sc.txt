@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vcs_victor
+Source Model Hash : 1393b5a6eef07914d7d961d6ec183373
+Source Model Date : 1632667448 (2021/09/26)
+
+Ported Model Name : vcs_victor_v1sc
+Ported Model Hash : aee911ed34112eacffa8827a981f7d39
+Ported Model Date : 1752492489 (2025/07/14)

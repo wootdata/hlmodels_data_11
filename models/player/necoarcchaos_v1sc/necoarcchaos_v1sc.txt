@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : necoarcchaos
+Source Model Hash : 4a3a99e0b754c55f3470c976e2a51b99
+Source Model Date : 1633214517 (2021/10/02)
+
+Ported Model Name : necoarcchaos_v1sc
+Ported Model Hash : a5a14ca417d62debdd8ac3fb2dfac025
+Ported Model Date : 1752492077 (2025/07/14)

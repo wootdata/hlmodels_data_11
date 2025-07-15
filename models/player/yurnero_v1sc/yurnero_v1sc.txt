@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yurnero
+Source Model Hash : 95d35f045e60e0dfdb4d359d0aa26c47
+Source Model Date : 1458059348 (2016/03/15)
+
+Ported Model Name : yurnero_v1sc
+Ported Model Hash : 3d75b2303a0f1e6246e2b7dd434502d6
+Ported Model Date : 1752492525 (2025/07/14)

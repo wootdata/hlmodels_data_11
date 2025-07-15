@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grocer
+Source Model Hash : 6a1b6a5b4274c1799c5dfed75a76fd4d
+Source Model Date : 1265225124 (2010/02/03)
+
+Ported Model Name : grocer_v1sc
+Ported Model Hash : 83c11519a2e861892b13bbf080274cb9
+Ported Model Date : 1752491742 (2025/07/14)

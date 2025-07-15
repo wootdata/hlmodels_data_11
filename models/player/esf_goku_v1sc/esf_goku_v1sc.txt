@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_goku
+Source Model Hash : 94436a1af52ee511d8fc9f35b1dbc83a
+Source Model Date : 1426952925 (2015/03/21)
+
+Ported Model Name : esf_goku_v1sc
+Ported Model Hash : 3ca1feadefd7d587a7d156f01c23d3de
+Ported Model Date : 1752491637 (2025/07/14)

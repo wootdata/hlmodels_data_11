@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mofu
+Source Model Hash : d5800d35a03b37ff3b46b5f7f43af5a4
+Source Model Date : 1230540398 (2008/12/29)
+
+Ported Model Name : mofu_v1sc
+Ported Model Hash : 91e27cc2d8a4bff691b2d539e206f383
+Ported Model Date : 1752492038 (2025/07/14)

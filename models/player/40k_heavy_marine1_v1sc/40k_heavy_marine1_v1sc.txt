@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_heavy_marine_1
+Source Model Hash : ad24435bc31326a483a08a55444dbb7f
+Source Model Date : 1343795468 (2012/07/31)
+
+Ported Model Name : 40k_heavy_marine1_v1sc
+Ported Model Hash : e4d325348b51154f1cdbb8ba56991316
+Ported Model Date : 1752491322 (2025/07/14)

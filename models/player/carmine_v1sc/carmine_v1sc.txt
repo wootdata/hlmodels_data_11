@@ -1,0 +1,16 @@
+GAARA54
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carmine
+Source Model Hash : a355b97aa40f2b3fcff9447f4f126f18
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : carmine_v1sc
+Ported Model Hash : 12330776ac7ba72a255deb14fa160d4b
+Ported Model Date : 1752491463 (2025/07/14)

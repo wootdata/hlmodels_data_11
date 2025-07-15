@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_eagle
+Source Model Hash : 8b1071f3c3fb8d66a8a3d883386ecebd
+Source Model Date : 1265772396 (2010/02/09)
+
+Ported Model Name : para_eagle_v1sc
+Ported Model Hash : 8af27c0ff64422cb54c3312f4b10c380
+Ported Model Date : 1752492145 (2025/07/14)

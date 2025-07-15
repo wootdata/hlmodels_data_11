@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_trinrage
+Source Model Hash : 5edff35314419f5e38fa03c2414d203b
+Source Model Date : 1700907938 (2023/11/25)
+
+Ported Model Name : ahl_trinrage_v1sc
+Ported Model Hash : cd1b3d0847e1859b11735c5640c162a4
+Ported Model Date : 1752491345 (2025/07/14)

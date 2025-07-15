@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jra_v2
+Source Model Hash : 9b0d40bead15b6738a581f0a57fbcea1
+Source Model Date : 1583909377 (2020/03/10)
+
+Ported Model Name : jra_v2sc
+Ported Model Hash : f157ceb1ff218f81520b72b832c092cd
+Ported Model Date : 1752491865 (2025/07/14)

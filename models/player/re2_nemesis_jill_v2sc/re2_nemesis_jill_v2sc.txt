@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re2_nemesis_jill_v2
+Source Model Hash : 5c82947e07487bc2d1f25ca137317b44
+Source Model Date : 1583728079 (2020/03/08)
+
+Ported Model Name : re2_nemesis_jill_v2sc
+Ported Model Hash : a74cde044f8ab519cda3cfbbf873a936
+Ported Model Date : 1752492191 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sofi_skin
+Source Model Hash : 723b48e62c008ab48d8a491c81ec95e1
+Source Model Date : 1433728162 (2015/06/07)
+
+Ported Model Name : sofi_skin_v1sc
+Ported Model Hash : cd050b75e1a6e5700d8a3741bb26195d
+Ported Model Date : 1752492288 (2025/07/14)

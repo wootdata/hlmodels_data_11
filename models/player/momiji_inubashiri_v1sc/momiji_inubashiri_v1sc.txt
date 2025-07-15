@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : momiji_inubashiri
+Source Model Hash : 0de2d3359545bead42012d8c60ea4091
+Source Model Date : 1466208554 (2016/06/17)
+
+Ported Model Name : momiji_inubashiri_v1sc
+Ported Model Hash : ce28e9c9e4bad848d92933e4de6b9ec8
+Ported Model Date : 1752492038 (2025/07/14)

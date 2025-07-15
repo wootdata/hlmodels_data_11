@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spec_ops_elite
+Source Model Hash : 80b407daf24402a802c84f4cfcb6f6b4
+Source Model Date : 1750966417 (2025/06/26)
+
+Ported Model Name : spec_ops_elite_v1sc
+Ported Model Hash : f73091a3c620746f72152425221f5182
+Ported Model Date : 1752492305 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : al_ayanami_meranian
+Source Model Hash : 44666f5752e60cc7c2fadba637a8d4cc
+Source Model Date : 1612192917 (2021/02/01)
+
+Ported Model Name : al_ayanami_mera_v1sc
+Ported Model Hash : 48bef72f585abe13b07f730edb564359
+Ported Model Date : 1752491356 (2025/07/14)

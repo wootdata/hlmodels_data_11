@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : veemon_b
+Source Model Hash : c388caaaf7a5c1c79126d021e07d990f
+Source Model Date : 1685095628 (2023/05/26)
+
+Ported Model Name : veemon_b_v1sc
+Ported Model Hash : c3161682991b7acd057eeaada40119f2
+Ported Model Date : 1752492490 (2025/07/14)

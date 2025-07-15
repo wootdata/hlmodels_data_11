@@ -1,0 +1,29 @@
+B1
+Version 0.9
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- Low polygon count and no differences between hi and low resolution.
+- His crouch post looks very weird. :)
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : b1
+Source Model Hash : 401249d3b3ff885e434ad3231cc5949f
+Source Model Date : 1267788078 (2010/03/05)
+
+Ported Model Name : b1_v1sc
+Ported Model Hash : da8a27bcf1404ad1fe720ebb98df53fc
+Ported Model Date : 1752491393 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ronj
+Source Model Hash : ee86e5c6e4a3372691a5b3f47dc9f1f7
+Source Model Date : 1590882262 (2020/05/30)
+
+Ported Model Name : ronj_v1sc
+Ported Model Hash : 4006a22e0d16ecc9b447c47a9cd7710a
+Ported Model Date : 1752492221 (2025/07/14)

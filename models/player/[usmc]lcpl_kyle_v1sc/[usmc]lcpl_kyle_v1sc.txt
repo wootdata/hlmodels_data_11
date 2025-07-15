@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]lcpl_kyle
+Source Model Hash : a1e4148d5f1ac6dda580e18524da1f2a
+Source Model Date : 1542078712 (2018/11/12)
+
+Ported Model Name : [usmc]lcpl_kyle_v1sc
+Ported Model Hash : bbff491f011742617fbc3990eb35e6d3
+Ported Model Date : 1752492540 (2025/07/14)

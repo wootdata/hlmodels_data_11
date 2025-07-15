@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cloakflames
+Source Model Hash : 329be92c2e131339d8bdb6114b6773e8
+Source Model Date : 1268290201 (2010/03/10)
+
+Ported Model Name : cloakflames_v1sc
+Ported Model Hash : a6f69d5667f6c3d898d143e577d7998c
+Ported Model Date : 1752491482 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_shadow-3_a2_v2
+Source Model Hash : 3ca10dc03968c70bf32818bcb22f2d4a
+Source Model Date : 1661806731 (2022/08/29)
+
+Ported Model Name : ta_c_shadow-3_a2_v2sc
+Ported Model Hash : a224d419e12571eb30c41218c412ec05
+Ported Model Date : 1752492377 (2025/07/14)

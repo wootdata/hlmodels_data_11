@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : larry_military_v3
+Source Model Hash : 1d6055ecc2fa85417079750c22bdad80
+Source Model Date : 1523936986 (2018/04/16)
+
+Ported Model Name : larry_military_v3sc
+Ported Model Hash : f4e3a918c7208a5c9ca7fa21dcb2f0a2
+Ported Model Date : 1752491938 (2025/07/14)

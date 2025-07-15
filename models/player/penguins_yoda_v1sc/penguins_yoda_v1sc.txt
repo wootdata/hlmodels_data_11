@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : penguins_yoda
+Source Model Hash : a618a35667910d45f66e64ad9dab2904
+Source Model Date : 1604279046 (2020/11/01)
+
+Ported Model Name : penguins_yoda_v1sc
+Ported Model Hash : d1550772b721b542158667a05901b8f0
+Ported Model Date : 1752492153 (2025/07/14)

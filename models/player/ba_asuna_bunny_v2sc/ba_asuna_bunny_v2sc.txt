@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_asuna_bunny_v2
+Source Model Hash : d13d4b961a65f2acdad151112576a85a
+Source Model Date : 1704222404 (2024/01/02)
+
+Ported Model Name : ba_asuna_bunny_v2sc
+Ported Model Hash : ce988a3c17f5ef82d0a52e28e49fa882
+Ported Model Date : 1752491407 (2025/07/14)

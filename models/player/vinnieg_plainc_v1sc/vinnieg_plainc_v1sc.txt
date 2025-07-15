@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vinnieg_plain_clean
+Source Model Hash : 37956f8b40bbf6cd4b7f75128d695162
+Source Model Date : 1457330682 (2016/03/06)
+
+Ported Model Name : vinnieg_plainc_v1sc
+Ported Model Hash : b7caa0ed7d6fb4e240dfe490a53140c2
+Ported Model Date : 1752492492 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zerotwo_v3
+Source Model Hash : 009a1c27ae97e7119e443a5124a95e92
+Source Model Date : 1685744538 (2023/06/02)
+
+Ported Model Name : zerotwo_v3sc
+Ported Model Hash : bd2ef966ccdfcc7441575ff6ecf43746
+Ported Model Date : 1752492529 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_stylez
+Source Model Hash : 79d01c83c7d38fe7afd6d256d4ae3828
+Source Model Date : 1694641857 (2023/09/13)
+
+Ported Model Name : ahl_stylez_v1sc
+Ported Model Hash : b2946a2fce23d8769491aead31e644ac
+Ported Model Date : 1752491345 (2025/07/14)

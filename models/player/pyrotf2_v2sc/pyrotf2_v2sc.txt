@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pyrotf2_v2
+Source Model Hash : eb06a8cf0531aa9388c26ffc2e5b8379
+Source Model Date : 1584088944 (2020/03/13)
+
+Ported Model Name : pyrotf2_v2sc
+Ported Model Hash : bc1c1263f609bfcd03e7074ad9358ed5
+Ported Model Date : 1752492174 (2025/07/14)

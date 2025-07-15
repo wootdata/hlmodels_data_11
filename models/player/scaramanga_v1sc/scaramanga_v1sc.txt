@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scaramanga
+Source Model Hash : e6278e704ad40bfc51c99be0a470ab75
+Source Model Date : 1269799371 (2010/03/28)
+
+Ported Model Name : scaramanga_v1sc
+Ported Model Hash : f411a837ddeb81864ca69a697085618b
+Ported Model Date : 1752492244 (2025/07/14)

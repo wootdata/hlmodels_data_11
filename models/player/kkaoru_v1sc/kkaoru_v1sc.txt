@@ -1,0 +1,30 @@
+Kokanae Kaoru
+Version 0.8
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- Kaoru uses his animating blade instead of the crowbar.
+- He is so short.
+- High polygon count and no differences between and hi/lo res models.
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kkaoru
+Source Model Hash : 7782202afb4350a5a555db7ea09e42e6
+Source Model Date : 1429479049 (2015/04/19)
+
+Ported Model Name : kkaoru_v1sc
+Ported Model Hash : fbebc625e20a076b5bc375e3e119a152
+Ported Model Date : 1752491895 (2025/07/14)

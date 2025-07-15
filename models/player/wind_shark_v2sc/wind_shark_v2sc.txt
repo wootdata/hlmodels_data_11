@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wind_shark_v2
+Source Model Hash : 5e588f6d47420ea15ca0db00c7527e1f
+Source Model Date : 1583745993 (2020/03/09)
+
+Ported Model Name : wind_shark_v2sc
+Ported Model Hash : 8ce021650ce63f530f368435e2631700
+Ported Model Date : 1752492509 (2025/07/14)

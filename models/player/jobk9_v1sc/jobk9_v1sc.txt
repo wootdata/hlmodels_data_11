@@ -1,0 +1,32 @@
+JobK9
+Version 1.0
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- JOBK9's ALWAYS in crouch mode (so pressing crouch button shows no effect).
+- JOBK9's legs won't move.
+- Few animations and low polygon count.
+- No differences between low and hi resolution.
+- New dead (explode) and crowbar animations.
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jobk9
+Source Model Hash : 6c63ef0cc0f3dd3219d68c0978c25526
+Source Model Date : 1263928394 (2010/01/19)
+
+Ported Model Name : jobk9_v1sc
+Ported Model Hash : e4b0e94f51562740555a4203ef866917
+Ported Model Date : 1752491863 (2025/07/14)

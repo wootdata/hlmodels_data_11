@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_joker
+Source Model Hash : d198062c17848c2f3cd5d1a1124cf1f1
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : cso_joker_v1sc
+Ported Model Hash : a655281646dd28547e3e4ff70404e73d
+Ported Model Date : 1752491555 (2025/07/14)

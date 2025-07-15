@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : natasha
+Source Model Hash : 71cde3b6801a99cf304fc6e49b9ca244
+Source Model Date : 1324459101 (2011/12/21)
+
+Ported Model Name : natasha_v1sc
+Ported Model Hash : 1305623123f9df2fd1b2a77eaf8311bf
+Ported Model Date : 1752492071 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_magui
+Source Model Hash : c93b25c59d36f6f20a7a330a672690c5
+Source Model Date : 1230999108 (2009/01/03)
+
+Ported Model Name : cso_magui_v1sc
+Ported Model Hash : a6718f2d23b7787c3a3ab59948066eeb
+Ported Model Date : 1752491555 (2025/07/14)

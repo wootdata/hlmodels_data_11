@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re4_jackkrauser
+Source Model Hash : d83ffefa0bebcafe22220a13ecbdb2d8
+Source Model Date : 1236271686 (2009/03/05)
+
+Ported Model Name : re4_jackkrauser_v1sc
+Ported Model Hash : 2ece026be97ac543724c1f005ef5a4c1
+Ported Model Date : 1752492192 (2025/07/14)

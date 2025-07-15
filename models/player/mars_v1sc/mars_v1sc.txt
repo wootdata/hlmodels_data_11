@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mars
+Source Model Hash : 7a5e40fbb44e64a481d0e2287ab1f38a
+Source Model Date : 1269249078 (2010/03/22)
+
+Ported Model Name : mars_v1sc
+Ported Model Hash : ecf6b77e984dcc9bebfb63967b32dc2f
+Ported Model Date : 1752491989 (2025/07/14)

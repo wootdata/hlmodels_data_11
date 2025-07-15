@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : i_sango
+Source Model Hash : dfe49896a42387fd874a33290ffb515d
+Source Model Date : 1629325630 (2021/08/18)
+
+Ported Model Name : i_sango_v1sc
+Ported Model Hash : c4999770ecfa8f39fa6e89330915dc49
+Ported Model Date : 1752491856 (2025/07/14)

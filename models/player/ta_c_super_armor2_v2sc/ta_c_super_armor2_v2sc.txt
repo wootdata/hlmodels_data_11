@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_super_armor2_v2
+Source Model Hash : fc5e6b6fd351572e48427317873f5534
+Source Model Date : 1661807289 (2022/08/29)
+
+Ported Model Name : ta_c_super_armor2_v2sc
+Ported Model Hash : f19146704169483fa9959514e1a80dd4
+Ported Model Date : 1752492382 (2025/07/14)

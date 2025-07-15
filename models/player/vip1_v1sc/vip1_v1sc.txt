@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vip1
+Source Model Hash : c24cb52f8d946cbf45af4f6ea7d82bf6
+Source Model Date : 1500481396 (2017/07/19)
+
+Ported Model Name : vip1_v1sc
+Ported Model Hash : ab9a5751eb651bb9b54d02c8838d3b27
+Ported Model Date : 1752492493 (2025/07/14)

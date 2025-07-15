@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kof_k
+Source Model Hash : 7b525ad39cb86737930a7abc19577e56
+Source Model Date : 1643827557 (2022/02/02)
+
+Ported Model Name : kof_k_v1sc
+Ported Model Hash : 3e0afc61fb9946f41339d089a4e1557c
+Ported Model Date : 1752491906 (2025/07/14)

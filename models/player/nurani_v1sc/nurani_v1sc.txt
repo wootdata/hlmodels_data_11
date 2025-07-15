@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nurani
+Source Model Hash : 92ebdf5228c08edfbd0ed7e1e6dc57e6
+Source Model Date : 1353948808 (2012/11/26)
+
+Ported Model Name : nurani_v1sc
+Ported Model Hash : b7c178ae1a09240458beb7eb5469ba4f
+Ported Model Date : 1752492105 (2025/07/14)

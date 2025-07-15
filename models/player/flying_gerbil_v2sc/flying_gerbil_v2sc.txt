@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flying_gerbil_v2
+Source Model Hash : 4223df29eb37579cd6f623c7161e38db
+Source Model Date : 1583045743 (2020/02/29)
+
+Ported Model Name : flying_gerbil_v2sc
+Ported Model Hash : ebc3b6d50da2e3f0e2b5fb81eabad157
+Ported Model Date : 1752491654 (2025/07/14)

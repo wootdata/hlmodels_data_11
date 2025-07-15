@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_securityt
+Source Model Hash : a2020f6cc2160b805e236749a518eac3
+Source Model Date : 1483813336 (2017/01/07)
+
+Ported Model Name : alife_securityt_v1sc
+Ported Model Hash : fc13a27a729654fd34ccd9ce46333f84
+Ported Model Date : 1752491336 (2025/07/14)

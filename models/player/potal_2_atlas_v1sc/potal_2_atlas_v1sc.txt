@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : potal_2_atlas
+Source Model Hash : ff63b10e1950c167c62222114f805b0e
+Source Model Date : 1469462970 (2016/07/25)
+
+Ported Model Name : potal_2_atlas_v1sc
+Ported Model Hash : 0127dccd18a82738393d3b3e926563ec
+Ported Model Date : 1752492164 (2025/07/14)

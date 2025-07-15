@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arknights_exusiai-c2
+Source Model Hash : 7496181684dae17adfcab8fd87869287
+Source Model Date : 1597634669 (2020/08/16)
+
+Ported Model Name : ak_exusiai-c2_v1sc
+Ported Model Hash : 86e4122b55d93f9a0ac025ce386fe15d
+Ported Model Date : 1752491369 (2025/07/14)

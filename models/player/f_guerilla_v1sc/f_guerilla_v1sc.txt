@@ -1,0 +1,23 @@
+f_guerilla
+Just a conversion for SC4.5 from CS using Gina's bone structure.
+
+This skin was originally for Counter-strike.
+I found an original download for CS at Fileplanet (sry no others):
+http://www.fileplanet.com/156941/150000/fileinfo/Counter-Strike---Female-Counter-Strike-skin-pack
+
+Original creators not known.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : f_guerilla
+Source Model Hash : 2aec79a15f1103cf0c82b79ba4e030dd
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : f_guerilla_v1sc
+Ported Model Hash : 2ae3bc85d23d890d914290d328e60bd7
+Ported Model Date : 1752491665 (2025/07/14)

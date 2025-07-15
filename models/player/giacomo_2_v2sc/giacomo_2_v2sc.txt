@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : giacomo_2_v2
+Source Model Hash : 6fa684441affeb45e66e349b8c189ed4
+Source Model Date : 1523995723 (2018/04/17)
+
+Ported Model Name : giacomo_2_v2sc
+Ported Model Hash : 21c0069c16590b27680ad70c3ca200ea
+Ported Model Date : 1752491699 (2025/07/14)

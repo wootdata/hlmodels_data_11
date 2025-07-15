@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : -general-haze-alpha
+Source Model Hash : 8379468d57de28f2e17a56cd7b702cf0
+Source Model Date : 1611114898 (2021/01/19)
+
+Ported Model Name : general-haze_v1sc
+Ported Model Hash : a97e6e8d57e0339b938ed8bddc47b8c6
+Ported Model Date : 1752491302 (2025/07/14)

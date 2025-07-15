@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : defiler
+Source Model Hash : 5696dff9f54ca08d8bfba0809d211e31
+Source Model Date : 1266936523 (2010/02/23)
+
+Ported Model Name : defiler_v1sc
+Ported Model Hash : 4eea64816886a8f60f897354a8355016
+Ported Model Date : 1752491593 (2025/07/14)

@@ -1,0 +1,36 @@
+cockroach_README		08:50 10SEP99
+
+I call this guy "Cockroach", I had originally designed him for my now defunct line of comic books, but thought he'd look nice in HL DM. I know the face count is pretty high, but what can you expect with four arms?
+
+#vertices:   504, 
+#triangles:   965, 
+#groups:   2, 
+#bones:  38,
+#materials:   2,
+ sgroups: 1
+
+To use this model for Half-Life simply create a new folder named 'cockroach' (NO QUOTES!) in: 
+...\Half-Life\valve\models\player\...
+Un-zip the cockroach.mdl and megatron.bmp into the new 'cockroach' folder
+
+Feel free to distribute this .zip along with the README.txt
+Have Fun!
+
+Mann Slaughter
+"Let's DO this!"
+mann_slaughter@usa.net
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cockroach
+Source Model Hash : 62f0787957d127241f55bee553f3be4b
+Source Model Date : 1268316477 (2010/03/11)
+
+Ported Model Name : cockroach_v1sc
+Ported Model Hash : 48edd4140dcb33313043ec1e8cd216f2
+Ported Model Date : 1752491491 (2025/07/14)

@@ -1,0 +1,42 @@
+File Name          : scorpion_hl.zip
+Date               : October 2, 2000
+Author             : yxo
+E-mail             : neotropic@halflife.ru;
+Web Site           : http://www.halflife.ru/mdl/
+
+INSTALLATION AND USE
+--------------------------
+Unpack archive in directory Half-Life\valve\models\player\ by 
+the included option Use Folder Names in the program WinZip.
+
+
+-------------
+readme.rus
+------------
+Èìÿ ôàéëà          : scorpion_hl.zip
+Äàòà               : îêòÿáðü 2, 2000
+Àâòîð              : yxo
+E-mail             : neotropic@halflife.ru;
+Âåá ñàéò           : http://www.halflife.ru/mdl/
+
+
+ÈÍÑÒÀËßÖÈß
+--------------------------
+Ðàñïàêóéòå àðõèâ â directory Half-Life\valve\models\player\ ñ 
+âêëþ÷¸ííîé îïöèåé Use Folder Names â ïðîãðàììå WinZip.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scorpion_v2
+Source Model Hash : 8e9ac8e636641e0f0c7304b59e86d8ae
+Source Model Date : 1155922260 (2006/08/18)
+
+Ported Model Name : scorpion_v2sc
+Ported Model Hash : 49433f644c42512f6b17c4500c264b9d
+Ported Model Date : 1752492249 (2025/07/14)

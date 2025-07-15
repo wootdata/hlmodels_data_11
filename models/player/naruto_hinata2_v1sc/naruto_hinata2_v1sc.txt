@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_hinata2
+Source Model Hash : 885a0c54a93242547c174e7392243a48
+Source Model Date : 1236389072 (2009/03/06)
+
+Ported Model Name : naruto_hinata2_v1sc
+Ported Model Hash : b520f07b858d35b93b88288bdb97bbd6
+Ported Model Date : 1752492068 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shark
+Source Model Hash : dc01c082645dec9950cae6a7a0fbc10b
+Source Model Date : 1237171396 (2009/03/15)
+
+Ported Model Name : shark_v1sc
+Ported Model Hash : 1d3fd9ca6cda972d980647612e925bcf
+Ported Model Date : 1752492265 (2025/07/14)

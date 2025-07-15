@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bush
+Source Model Hash : 64b0a945b8deb661d200d361d571d17b
+Source Model Date : 1268072897 (2010/03/08)
+
+Ported Model Name : bush_v1sc
+Ported Model Hash : f5a7059877cbc15c82fb84dd5f2ed703
+Ported Model Date : 1752491455 (2025/07/14)

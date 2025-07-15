@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dragonknight_v1
+Source Model Hash : 06186ad1b575632ed66a78e0d15e8aa1
+Source Model Date : 1445581176 (2015/10/22)
+
+Ported Model Name : dragonknight_v1sc
+Ported Model Hash : a0da14b6babb37c30d38eb96973d6157
+Ported Model Date : 1752491621 (2025/07/14)

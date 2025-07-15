@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usmcc
+Source Model Hash : 218c2e2ae7144a8a49f6e383e8c7d50d
+Source Model Date : 1591339931 (2020/06/04)
+
+Ported Model Name : usmcc_v1sc
+Ported Model Hash : 8eea2ab12a0567fd29ec94435ec56c58
+Ported Model Date : 1752492484 (2025/07/14)

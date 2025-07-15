@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata2_skirt2
+Source Model Hash : 4c0418f5cd94e690c93ef2cd9e996216
+Source Model Date : 1261531355 (2009/12/22)
+
+Ported Model Name : nekomata2_skirt2_v1sc
+Ported Model Hash : b0c8b309f5511f6b89bed8613603c911
+Ported Model Date : 1752492078 (2025/07/14)

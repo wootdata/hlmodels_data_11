@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkrouge
+Source Model Hash : e78f52d4d700445567e67c32e49a85f2
+Source Model Date : 1425656487 (2015/03/06)
+
+Ported Model Name : darkrouge_v1sc
+Ported Model Hash : d83368cc6f181fc9551f6bfa680dd788
+Ported Model Date : 1752491579 (2025/07/14)

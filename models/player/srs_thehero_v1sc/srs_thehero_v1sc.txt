@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : srs_thehero
+Source Model Hash : e11cc96e63dbeff88b257ffbb7c933a0
+Source Model Date : 1738786200 (2025/02/05)
+
+Ported Model Name : srs_thehero_v1sc
+Ported Model Hash : b8db77d452c05ca64a1aec5cde728bd4
+Ported Model Date : 1752492318 (2025/07/14)
