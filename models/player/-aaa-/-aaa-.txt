@@ -1,0 +1,8 @@
+-aaa- readme
+
+
+Make sure the -aaa-.mdl and -aaa-.bmp files are in a directory
+called -aaa- WITH the hyphens.
+
+I couldnt upload the zip file to my site with hyphens.
+Sorry
