@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pe_wachi01
+Source Model Hash : a5ef280940222f107309325cb1d2aa2c
+Source Model Date : 1760257119 (2025/10/12)
+
+Ported Model Name : pe_wachi01_v1sc
+Ported Model Hash : dad5c43e1a422be439008ab661eff20e
+Ported Model Date : 1762777782 (2025/11/10)
